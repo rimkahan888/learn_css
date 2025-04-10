@@ -116,4 +116,22 @@ Here's a **structured study list** to master Tailwind CSS from basics to advance
 3. **Week 3**: Advanced Layouts + Animations  
 4. **Week 4**: Optimization + Real-World Project  
 
-Would you like me to expand on any section? 🚀
+Core Tailwind Components List:
+1. Navigation Bar
+2. Hero Section
+3. Cards
+4. Buttons
+5. Forms (Inputs, Dropdowns, Checkboxes)
+6. Modals/Dialogs
+7. Footer
+8. Responsive Grid Layouts
+9. Badges/Tags
+10. Alerts/Notifications
+11. Avatars/Icons
+12. Dropdown Menus
+13. Tabs/Accordions
+14. Loaders/Spinners
+15. Breadcrumbs
+16. Pagination
+17. Tooltips
+18. Dark Mode Toggle
